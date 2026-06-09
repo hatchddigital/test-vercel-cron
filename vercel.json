@@ -1,7 +1,7 @@
 {
   "crons": [
     {
-      "path": "https://staging.portal.rhodespastoral.com.au/api/payload-jobs/run?queue=pdfs&limit=10",
+      "path": "/api/payload-jobs/run?queue=pdfs&limit=10",
       "schedule": "*/5 * * * *"
     }
   ]
