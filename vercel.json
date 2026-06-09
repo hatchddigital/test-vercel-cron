@@ -2,7 +2,7 @@
   "crons": [
     {
       "path": "/api/payload-jobs/run?queue=pdfs&limit=10",
-      "schedule": "0 0 * * * *"
+      "schedule": "35 2 * * *"
     }
   ]
 }
