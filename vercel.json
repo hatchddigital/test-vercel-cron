@@ -3,7 +3,7 @@
   "crons": [
     {
       "path": "/api/run-pdfs",
-      "schedule": "25 4 * * *"
+      "schedule": "40 4 * * *"
     }
   ]
 }
